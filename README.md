@@ -73,39 +73,6 @@ class Abhishek:
 
 ---
 
-### 📈 Contribution Activity
-
-[![Abhishek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhik3373&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=39D353&area=true&hide_border=true)](https://github.com/abhik3373)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhik3373&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=8B949E&count_private=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhik3373&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abhik3373&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhik3373&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/abhik3373)
-
-</div>
-
----
 
 ### 🚀 Featured Projects
 
