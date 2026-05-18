@@ -1,75 +1,81 @@
-<div align="center">
+<!-- Animated Venom Header with Name & Tagline -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:1a1a4e,100:58A6FF&height=220&section=header&text=Abhishek%20Kolpe&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=60&desc=CS%20Engineer%20%7C%20AWS%20Certified%20%7C%20Full%20Stack%20%7C%20Data%20Engineering%20%7C%20ML%2FAI&descSize=17&descAlignY=80&descColor=8B949E" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Abhishek+Kolpe;CS+Engineering+Graduate+%F0%9F%8E%93;Full+Stack+%7C+Data+Engineering+%7C+ML;AWS+Certified+%E2%98%81%EF%B8%8F+%7C+Open+to+Work" alt="Typing SVG" />
+<br/>
 
-</div>
-
----
+<!-- About + GIF side by side -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="55%" valign="top">
 
 ### 👨‍💻 About Me
 
 ```python
 class Abhishek:
-    degree     = "B.Tech Computer Science & Engineering"
-    university = "MIT ADT University, Pune (2026)"
-    certified  = ["AWS Certified Cloud Practitioner"]
-    interests  = ["Data Engineering", "Full Stack Dev", "ML/AI", "Cloud"]
-    currently  = "Open to entry-level roles 🚀"
-    contact    = "abhishekkolpe2004@gmail.com"
+    degree     = "B.Tech CSE · MIT ADT University 2026"
+    certified  = ["AWS Cloud Practitioner ☁️"]
+    stack      = ["Python", "JS", "SQL", "MongoDB",
+                  "Node.js", "Next.js", "TensorFlow"]
+    domains    = ["Data Engineering", "Full Stack",
+                  "ML/AI", "Cloud", "DevOps"]
+    status     = "Open to opportunities 🚀"
+    fun_fact   = "I debug with coffee ☕"
 ```
+
+</td>
+<td width="45%" align="center" valign="top">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="Coding gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00758F)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+<!-- Languages -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
-**Frontend & Backend**
+<!-- Frontend & Backend -->
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3FB950)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
+<!-- Data & Cloud -->
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
-**Data & Cloud**
+<!-- Tools -->
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🏆 [Contest Tracker](https://github.com/abhik3373/Contest-Tracker) | Real-time competitive programming tracker with CLIST.by API, MongoDB pipelines & Web Push notifications | Node.js · MongoDB · Next.js · REST API |
-| 🧠 [Brain Tumor Detection](https://github.com/abhik3373/Brain_Tumor) | CNN-based medical image classifier using TensorFlow & OpenCV | Python · TensorFlow · OpenCV |
-| 🏥 [Hospital Management System](https://github.com/abhik3373/HMS) | Production-grade HMS with role-based dashboards, Google Calendar sync & serverless email | Python · Node.js · MongoDB |
-| ✈️ [Travel Heaven](https://github.com/abhik3373/Travel-Heaven-Airbnb-Website-) | Airbnb-style travel booking web app with clean UI & booking flows | JavaScript · Node.js |
+</div>
 
 ---
 
-### 📜 Certifications
+### 📈 Contribution Activity
 
-- ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services *(May 2026)*
-- 🤖 **AI LLM Developer Program** — HCLTech *(Apr 2026)*
-- 📊 **Data Analytics Job Simulation** — Deloitte Australia *(Jan 2026)*
-- 🛠️ **Data Engineering Virtual Internship** — AICTE × AWS Academy *(Sep 2025)*
+[![Abhishek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhik3373&bg_color=0D1117&color=58A6FF&line=BC8CFF&point=39D353&area=true&hide_border=true)](https://github.com/abhik3373)
 
 ---
 
@@ -77,14 +83,55 @@ class Abhishek:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abhik3373&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=8B949E" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhik3373&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhik3373&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=8B949E&count_private=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhik3373&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abhik3373&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=abhik3373&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E)
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhik3373&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/abhik3373)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| 🏆 Project | 📝 Description | 🛠️ Stack | 🔗 Link |
+|-----------|---------------|---------|--------|
+| **Contest Tracker** | Real-time competitive programming tracker with CLIST.by API, MongoDB pipelines & Web Push notifications | Node.js · MongoDB · Next.js | [→ View Repo](https://github.com/abhik3373/Contest-Tracker) |
+| **Brain Tumor Detection** | CNN-based medical image classifier using TensorFlow & OpenCV | Python · TensorFlow · OpenCV | [→ View Repo](https://github.com/abhik3373/Brain_Tumor) |
+| **Hospital Management System** | Production-grade HMS with role-based dashboards & Google Calendar sync | Python · Node.js · MongoDB | [→ View Repo](https://github.com/abhik3373/HMS) |
+| **Travel Heaven** | Airbnb-style travel booking web app with clean UI & booking flows | JavaScript · Node.js | [→ View Repo](https://github.com/abhik3373/Travel-Heaven-Airbnb-Website-) |
+
+</div>
+
+---
+
+### 📜 Certifications
+
+<div align="center">
+
+| Badge | Certification | Issuer | Year |
+|:-----:|--------------|--------|------|
+| ☁️ | AWS Certified Cloud Practitioner | Amazon Web Services | 2026 |
+| 🤖 | AI LLM Developer Program | HCLTech | 2026 |
+| 📊 | Data Analytics Job Simulation | Deloitte Australia | 2026 |
+| 🛠️ | Data Engineering Virtual Internship | AICTE × AWS Academy | 2025 |
 
 </div>
 
@@ -94,12 +141,15 @@ class Abhishek:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/abhishek-kolpe)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhik3373)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:abhishekkolpe2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kolpe)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhik3373)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekkolpe2004@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhik3373&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhik3373&color=58a6ff&style=flat-square&label=Profile+Views" />
-</div>
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:BC8CFF&height=100&section=footer&animation=fadeIn" />
