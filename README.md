@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;AWS+Certified+AI+Practitioner+%F0%9F%A4%96+(Score%3A+1000%2F1000!);Full+Stack+Developer+%F0%9F%9A%80;Data+Engineer+%7C+ML%2FAI+Builder+%F0%9F%A7%A0;Published+Researcher+%F0%9F%93%84+(IJIRT+IF+8.01)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;AWS+Certified+AI+Practitioner+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Data+Engineer+%7C+ML%2FAI+Builder+%F0%9F%A7%A0;Published+Researcher+%F0%9F%93%84+(IJIRT+IF+8.01)" alt="Typing SVG" />
 </p>
 
 <br/>
