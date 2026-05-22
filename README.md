@@ -133,7 +133,7 @@ class Abhishek:
 | 🏅 | Certification | Issuer | Score / Details |
 |:--:|--------------|--------|----------------|
 | ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services | Valid until May 2029 |
-| 🤖 | **AWS Certified AI Practitioner** | Amazon Web Services | **Perfect Score 1000/1000** 🎯 · Valid until May 2029 |
+| 🤖 | **AWS Certified AI Practitioner** | Amazon Web Services | Valid until May 2029 |
 | 🧠 | **Convolutional Neural Networks** | DeepLearning.AI (Andrew Ng) | Aug 2025 |
 | 🔬 | **Neural Networks & Deep Learning** | DeepLearning.AI (Andrew Ng) | Aug 2025 |
 | 💼 | **AI LLM Developer Program** | HCLTech | 60 Hours · Apr 2026 |
