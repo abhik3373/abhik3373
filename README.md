@@ -117,7 +117,7 @@ class Abhishek:
 
 | 🏆 Project | 📝 Description | 🛠️ Stack | 🔗 |
 |-----------|---------------|---------|-----|
-| **Contest Tracker** | Real-time competitive programming tracker — CLIST.by API, MongoDB pipelines, Web Push & email alerts. **Published in IJIRT (IF 8.01)** | Next.js · MongoDB · Node.js · Chart.js | [→ Repo](https://github.com/abhik3373/contest_tracker) |
+| **Contest Tracker** | Real-time competitive programming tracker — CLIST.by API, MongoDB pipelines, Web Push & email alerts. **Published in IJIRT (IF 8.01)** | Next.js · MongoDB · Node.js · Chart.js | [→ Repo](https://github.com/abhik3373/contest-tracker.git) |
 | **Brain Tumor Detection** | CNN-based MRI classifier achieving **90% accuracy** with TensorFlow & OpenCV. Full evaluation pipeline with precision/recall/F1 | Python · TensorFlow · OpenCV | [→ Repo](https://github.com/abhik3373/Brain_Tumor) |
 | **Travel Heaven** | Airbnb-style booking platform with JWT auth, RESTful APIs & responsive React UI | React · Node.js · MongoDB · Express | [→ Repo](https://github.com/abhik3373/Travel-Heaven-Airbnb-Website-) |
 | **Hospital Management System** | Production HMS with role-based dashboards & Google Calendar sync | Python · Node.js · MongoDB | [→ Repo](https://github.com/abhik3373/HMS) |
