@@ -1,11 +1,11 @@
 <!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:0a0a2e,100:1a1a6e&height=250&section=header&text=Abhishek%20Kolpe&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=55&desc=CS%20Engineer%20%7C%20AWS%20Certified%20×2%20%7C%20Full%20Stack%20%7C%20Data%20Engineering%20%7C%20AI%2FML&descSize=17&descAlignY=75&descColor=58A6FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:0a0a2e,100:1a1a6e&height=250&section=header&text=Abhishek%20Kolpe&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=55&desc=CS%20Engineer%20%7C%20AWS%20Certified%20×4%20%7C%20Full%20Stack%20%7C%20Data%20Engineering%20%7C%20AI%2FML&descSize=17&descAlignY=75&descColor=58A6FF" />
 
 <br/>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;AWS+Certified+AI+Practitioner+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Data+Engineer+%7C+ML%2FAI+Builder+%F0%9F%A7%A0;Published+Researcher+%F0%9F%93%84+(IJIRT+IF+8.01)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=AWS+Certified+Solutions+Architect+Associate+%F0%9F%8F%97%EF%B8%8F;AWS+Certified+Developer+Associate+%F0%9F%92%BB;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;AWS+Certified+AI+Practitioner+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80;Data+Engineer+%7C+ML%2FAI+Builder+%F0%9F%A7%A0;Published+Researcher+%F0%9F%93%84+(IJIRT+IF+8.01)" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -21,6 +21,8 @@
 class Abhishek:
     degree     = "B.Tech CSE · MIT ADT · 2026"
     certified  = [
+        "AWS Solutions Architect Associate 🏗️",
+        "AWS Developer Associate 💻",
         "AWS Cloud Practitioner ☁️",
         "AWS AI Practitioner 🤖 "
     ]
@@ -91,8 +93,11 @@ class Abhishek:
 
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
@@ -132,6 +137,8 @@ class Abhishek:
 
 | 🏅 | Certification | Issuer | Score / Details |
 |:--:|--------------|--------|----------------|
+| 🏗️ | **AWS Certified Solutions Architect – Associate** | Amazon Web Services | Valid until Jul 2029 |
+| 💻 | **AWS Certified Developer – Associate** | Amazon Web Services | Valid until Jul 2029 |
 | ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services | Valid until May 2029 |
 | 🤖 | **AWS Certified AI Practitioner** | Amazon Web Services | Valid until May 2029 |
 | 🧠 | **Convolutional Neural Networks** | DeepLearning.AI (Andrew Ng) | Aug 2025 |
